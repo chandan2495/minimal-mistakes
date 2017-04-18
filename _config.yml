@@ -77,11 +77,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  name             : "Chandan Singh"
+  avatar           : "/assets/images/chandan.jpg"
+  bio              : "umm........."
+  location         : "Hyderabad"
+  email            : "chandan2495@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
