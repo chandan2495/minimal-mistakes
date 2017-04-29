@@ -1,5 +1,5 @@
 ---
-title: "Markdown format"
+title: "Markdown format "
 ---
 
 A silly post but quite useful actually
