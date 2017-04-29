@@ -1,3 +1,7 @@
+---
+title: "Markdown format"
+---
+
 A silly post but quite useful actually
 
 ## Some of the [Markdown](https://guides.github.com/features/mastering-markdown/) formats
